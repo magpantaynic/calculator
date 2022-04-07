@@ -1,4 +1,5 @@
 // Just a major project from my first coding class
+// Fall 2017 - CS101 
 
 #include "std_lib_facilities.h"
 
